@@ -1,0 +1,11 @@
+gbcli
+gbplay
+selftest
+make_demo_rom
+*.exe
+*.o
+*.sav
+*.bmp
+*.ppm
+roms/*.gb
+roms/tests/
